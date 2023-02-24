@@ -6,6 +6,9 @@ cp
 mkdir
 ls -la
 touch
+<<<<<<< HEAD
 
 cat
 open
+=======
+>>>>>>> 9b545e479a6ad9f8fa4441b452b645607e692a18

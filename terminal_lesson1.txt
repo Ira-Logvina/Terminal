@@ -7,3 +7,5 @@ mkdir
 ls -la
 touch
 
+cat
+open

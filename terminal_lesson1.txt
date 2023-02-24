@@ -1,0 +1,7 @@
+pwd
+cd
+rm
+mc
+[A[C[v
+cp
+mkdir

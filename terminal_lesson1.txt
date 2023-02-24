@@ -1,7 +1,9 @@
 pwd
 cd
 rm
-mc
-[A[C[v
+mv
 cp
 mkdir
+ls -la
+touch
+

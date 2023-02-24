@@ -6,3 +6,4 @@ cp
 mkdir
 ls -la
 touch
+vim

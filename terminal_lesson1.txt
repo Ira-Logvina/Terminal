@@ -6,4 +6,3 @@ cp
 mkdir
 ls -la
 touch
-

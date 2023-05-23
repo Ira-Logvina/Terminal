@@ -1,4 +1,4 @@
-# Terminal
+:# Terminal
 <img loading="lazy" src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png">
 
 ## HW_1
@@ -24,7 +24,7 @@
 17. Вывести несколько первых строк из текстового файла - **head -5 1.txt**
 18. Вывести несколько последних строк из текстового файла - **tail -2 1.txt**
 19. Просмотреть содержимое длинного файла изучите как она работает - **less 1.txt**
-20. Вывести дату и время - **date**
+20. Вывести дату и время - **date**  
 =========
 
 **Задание***
@@ -33,14 +33,14 @@ http://162.55.220.72:5005/terminal-hw-request
 **Curl  http://162.55.220.72:5005 или порт 5006**
 2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
-**$ cat myscript**
-**#!/bin/bash**
-**cd d3**
-**mkdir folder1 folder2 folder3**
-**cd folder1**
-**touch 1.txt 2.txt 3.txt 4.json 5.json**
-**mkdir f1 f2 f3**
-**ls -la**
+**$ cat myscript**  
+**#!/bin/bash**  
+**cd d3**  
+**mkdir folder1 folder2 folder3**  
+**cd folder1**  
+**touch 1.txt 2.txt 3.txt 4.json 5.json**  
+**mkdir f1 f2 f3**  
+**ls -la**  
 **mv 1.txt 2.txt ../**
 
 ***Чтобы выполнить скрипт в указанной оболочке, нужно установить для него флаг исполняемости:***
